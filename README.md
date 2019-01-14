@@ -1,4 +1,9 @@
-Run these notebook in the cloud by clicking the binder button below:
+README
+======
 
-[![Binder](http://mybinder.org/badge.svg)](http:/beta.mybinder.org/v2/gh/mwcraig/obs-astronomy-binder/master?filepath=index.ipynb
-)
+Quick Start
+-----------
+
+Run Brian Hill's branch of Matthew Craig's observational astronomy notebooks in [binder](https://mybinder.org) by clicking on the button/link below:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/observatree/msum-astronomy-binder/brian?filepath=index.ipynb)
